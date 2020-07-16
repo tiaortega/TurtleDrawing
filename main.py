@@ -1,5 +1,6 @@
 import turtle
 
+#Star Drawings
 t = turtle.Turtle()
 t.color ("red")
 t.fillcolor ("red")
